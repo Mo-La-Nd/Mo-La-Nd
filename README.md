@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Mo-La-Nd, I'm from Senegal and currently living in France
--     willng to relocate in the UAE in the future 
--     Gratuated as a #GeneralistEngineer specialize in #EmbeddedSystem for #AutonomousVehicles
--     working as an Embedded Software/System Engineer
+- 👋 Hi, I’m @Mo-La-Nd, I'm from Senegal🇸🇳 and currently living in France 🇫🇷
+-     willng to relocate in the UAE 🇦🇪 in the future 
+-     Gratuated as a #GeneralistEngineer specialize in #EmbeddedSystem for #AutonomousVehicles 📜🎓👨🏾‍🎓
+-     working as an Embedded Software/System Engineer👨🏾‍💻
   
 - 👀 I’m interested in
 -     Basketball🏀,
@@ -17,7 +17,7 @@
   
 - 💞️ I’m looking to collaborate on everything related to embedded/software/robotics engineering
 
-- 📫 How to reach me @landiaye_98@hotmail.com
+- 📫 How to reach me @landiaye_98@hotmail.com 📧
 
 <!---
 Mo-La-Nd/Mo-La-Nd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
