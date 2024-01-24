@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mo-La-Nd, I'm from Senegal🇸🇳 and currently living in France 🇫🇷
 -     willng to relocate in the UAE 🇦🇪 in the future 
--     Gratuated as a #GeneralistEngineer specialize in #EmbeddedSystem for #AutonomousVehicles 📜🎓👨🏾‍🎓
+-     Gratuated as a #GeneralistEngineer specialize in #EmbeddedSystem for #AutonomousVehicles 📜🎓
 -     working as an Embedded Software/System Engineer👨🏾‍💻
   
 - 👀 I’m interested in
