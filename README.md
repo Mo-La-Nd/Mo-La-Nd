@@ -12,8 +12,13 @@
 - 🌱 I’m currently learning
 -     C (CLP-12-XX Certification),
 -     C++ (CPP-22-XX Certification),
--     Python (PCPP-32-1XX)
--     ROS/ROS2 ⌛
+-     Python (PCPP-32-1XX Certification)
+  
+-     ROS2/ROS ⌛
+-     DevOps ⌛
+-     Path planning ⌛
+-     Sensor Fusion/State Estimation⌛
+-     Puthon (OpenCV, YOLO)⌛
   
 - 💞️ I’m looking to collaborate on everything related to embedded/software/robotics engineering
 
