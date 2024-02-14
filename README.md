@@ -13,8 +13,8 @@
 -     C (CLP-12-XX Certification),
 -     C++ (CPP-22-XX Certification),
 -     Python (PCPP-32-1XX Certification)
+-     ROS2/ROS
   
--     ROS2/ROS ⌛
 -     DevOps ⌛
 -     Path planning ⌛
 -     Sensor Fusion/State Estimation⌛
